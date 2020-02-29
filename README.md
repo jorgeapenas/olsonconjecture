@@ -1,6 +1,6 @@
 # Introduction
 
-This software performs numerical routines and produces the figures for the paper **The Olson conjecture for discrete public goods**, by *Georg Nöldeke* and *Jorge Peña*. 
+This software performs numerical routines and produces the figures for the paper **Group size and collective action in a binary contribution game** (accepted for publication at *Journal of Mathematical Economics*) by *Georg Nöldeke* and *Jorge Peña*. 
 
 # Included files
 
